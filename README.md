@@ -1,2 +1,2 @@
 # Image-Defogging
-Image Defogging using CNN in tensorflow
+Image Defogging model using CNN
