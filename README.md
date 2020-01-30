@@ -17,3 +17,5 @@ where,
 
 # Results
 * SSIM (%) = 96.9
+
+##### Refer to REPORT for more details.
